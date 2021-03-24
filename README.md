@@ -11,7 +11,9 @@ pip install -r requirements.txt
 ```
 
 ## Download models
+```bash
 ./models/download-models.sh
+```
 
 ## Running flask
 ```bash
